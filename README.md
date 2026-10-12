@@ -6,7 +6,7 @@
 
 cha-ai is a free web app where you chat with the nosy Sharma family next door. Rant about your day, rage-bait them for fun, or ask Dadi for real advice. There's also a Kundli section that reads your stars for love, career and money, and says roughly *when*.
 
-**Try it:** https://chai-ai-7i1.pages.dev (no sign-up needed)
+**Try it:** https://cha-ai.online (no sign-up needed; backup link: https://chai-ai-7i1.pages.dev)
 
 > This repo holds the product write-up. The source code is private.
 
