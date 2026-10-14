@@ -59,7 +59,7 @@ A static site plus small serverless functions, all on Cloudflare's free tier.
 
 ## How quality was measured
 
-Before tuning, every character was asked the same 25 everyday questions, plus 10 in other languages (135 replies), and each reply was scored automatically and read by hand.
+Testing ran over 8 rounds and close to 500 test chats: a 135-reply baseline (every character asked the same 25 everyday questions, plus 10 in other languages), three rounds after rewrites (240 replies), mood checks (108) and a red-team run (14). Each reply was scored automatically and read by hand.
 
 | Measure | Before | After |
 |---|---|---|
